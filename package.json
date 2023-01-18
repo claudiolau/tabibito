@@ -9,13 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@emotion/react": "^11.10.5",
-    "@emotion/styled": "^11.10.5",
     "@ibm/plex": "^6.1.1",
-    "@mui/material": "^5.11.4",
+    "@lottiefiles/lottie-player": "^1.6.3",
+    "@lottiefiles/react-lottie-player": "^3.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sass": "^1.57.1"
+    "react-hook-form": "^7.42.1",
+    "react-search-autocomplete": "^8.3.1",
+    "zod": "^3.20.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
